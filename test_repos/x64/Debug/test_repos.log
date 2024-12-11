@@ -1,0 +1,7 @@
+﻿  test.cpp
+E:\КПІ\SP_kursova\lab4\vs_mkr_test1\vs_mkr_test1\stringProcessor.h(10,34): warning C4114: Множественное использование одного и того же квалификатора типа.
+  (компиляция исходного файла "/test.cpp")
+  
+E:\КПІ\SP_kursova\lab4\vs_mkr_test1\vs_mkr_test1\stringProcessor.h(17,1): error C4716: strlenn: должна возвращать значение
+E:\КПІ\SP_kursova\lab4\vs_mkr_test1\vs_mkr_test1\stringProcessor.h(13,1): error C4716: get_str: должна возвращать значение
+E:\КПІ\SP_kursova\lab4\vs_mkr_test1\vs_mkr_test1\stringProcessor.h(25,1): error C4716: strcmpp: должна возвращать значение

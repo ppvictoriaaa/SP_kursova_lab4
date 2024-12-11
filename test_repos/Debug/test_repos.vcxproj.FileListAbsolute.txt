@@ -1,0 +1,3 @@
+E:\КПІ\SP_kursova\lab4\vs_mkr_test1\vs_mkr_test1\Debug\gtest.pdb
+E:\КПІ\SP_kursova\lab4\vs_mkr_test1\vs_mkr_test1\Debug\gtest_main.pdb
+E:\КПІ\SP_kursova\lab4\vs_mkr_test1\vs_mkr_test1\test_repos\Debug\test_rep.A9F5781E.Up2Date
