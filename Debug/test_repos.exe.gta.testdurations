@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>E:\КПІ\SP_kursova\lab4\vs_mkr_test1\Debug\test_repos.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="QuickSortTest.SortsArrayInAscendingOrder" Duration="1" />
+    <TestDuration Test="QuickSortTest.SingleElementArray" Duration="1" />
+    <TestDuration Test="QuickSortTest.SortedArray" Duration="1" />
+    <TestDuration Test="QuickSortTest.ReverseSortedArray" Duration="1" />
+    <TestDuration Test="QuickSortTest.RandomArray" Duration="1" />
+    <TestDuration Test="StringProcessorTest.ValidString_ReturnsTrue" Duration="1" />
+    <TestDuration Test="StringProcessorTest.InvalidString_ReturnsFalse" Duration="1" />
+    <TestDuration Test="SwapTest.SwapsValuesCorrectly" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>

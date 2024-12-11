@@ -1,2 +1,3 @@
-﻿  test.cpp
-  test_repos.vcxproj -> E:\КПІ\SP_kursova\lab4\vs_mkr_test1\vs_mkr_test1\Debug\test_repos.exe
+﻿  pch.cpp
+  test.cpp
+  test_repos.vcxproj -> E:\КПІ\SP_kursova\lab4\vs_mkr_test1\Debug\test_repos.exe

@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                 git url: 'https://github.com/Cvoluj/sp_lab4.git', credentialsId: 'jenkins'
+                 git url: 'https://github.com/ppvictoriaaa/SP_kursova_lab4.git', credentialsId: 'jenkins'
             }
         }
         
